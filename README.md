@@ -1,9 +1,7 @@
 # next-starter 🚀
 > a full boilerplate with `sass (.scss)` built in, for developing projects in [next.js](https://github.com/zeit/next.js)
 
-<p align="center">
-  <img src="https://i.imgur.com/Yv2zIBl.png" width="500" />
-</p>
+![next-starter](https://i.imgur.com/BadvANk.png)
 
 ## how to
 ```bash
