@@ -1,6 +1,6 @@
 {
   "name": "next-starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🚀 boilerplate for starting projects in next.js",
   "main": "index.js",
   "repository": "git@github.com:YuriBrunetto/next-starter.git",
@@ -16,7 +16,7 @@
     "cssnano": "^3.10.0",
     "next": "latest",
     "node-sass": "^4.8.3",
-    "normalize.css": "^8.0.0",
+    "normalize.css": "^8.0.0ahahahaha",
     "react": "^16.3.0",
     "react-dom": "^16.3.0"
   }
